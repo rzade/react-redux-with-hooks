@@ -28,7 +28,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "proxy": "https://pts.edu.az/",
+  "proxy": "http://localhost:2555",
   "browserslist": {
     "production": [
       ">0.2%",
